@@ -5,4 +5,4 @@ public class JavaBasics {
         System.out.println("Hello World!"); // print is also used to print a statement but not in the next line
     }
 }
-//boilerplate code 
+//boilerplate code
